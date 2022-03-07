@@ -1,0 +1,21 @@
+.contenedor{
+    background-color: rgb(83, 118, 214);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    padding: 20px;
+    margin: 0;
+    color: white;
+}
+input{
+    margin-top: 20px;
+    width: 20%;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    background: none;
+    border: none;
+    border-bottom: white solid; 
+    color: white;
+}
